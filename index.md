@@ -128,12 +128,12 @@ Se recomienda revisar periódicamente esta sección.
 
 9\. Contacto
 
----
+Para consultas o soporte:
+
+Correo electrónico: christian.rojas.tech@gmail.com
 
 Fecha de última actualización: abril de 2026
 
 
-Para consultas o soporte:
 
-Correo electrónico: christian.rojas.tech@gmail.com
 
