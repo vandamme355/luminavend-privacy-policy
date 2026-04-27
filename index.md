@@ -128,6 +128,7 @@ Se recomienda revisar periódicamente esta sección.
 
 9\. Contacto
 
+Fecha de última actualización: abril de 2026
 
 
 Para consultas o soporte:
