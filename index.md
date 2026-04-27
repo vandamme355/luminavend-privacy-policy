@@ -82,8 +82,7 @@ La aplicación puede solicitar permisos necesarios para su funcionamiento, tales
 
 Acceso al almacenamiento del dispositivo (para guardar y exportar archivos)
 
-Acceso a internet (en caso de funcionalidades específicas como actualizaciones o servicios externos)
-
+Acceso a internet (solo en caso de funcionalidades específicas opcionales, sin recopilación ni envío de datos personales del usuario)
 
 
 Estos permisos se utilizan únicamente para las funciones propias de la aplicación.
