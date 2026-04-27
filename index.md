@@ -64,8 +64,7 @@ La aplicación no requiere registro de cuenta ni utiliza servidores remotos prop
 
 
 
-La aplicación no comparte datos personales con terceros.
-
+La aplicación no comparte datos personales con terceros ni transmite información a servidores externos.
 
 
 Sin embargo, el usuario puede optar voluntariamente por compartir archivos generados (como reportes o boletas) a través de otras aplicaciones instaladas en su dispositivo.
