@@ -130,7 +130,7 @@ Se recomienda revisar periódicamente esta sección.
 
 Para consultas o soporte:
 
-Correo electrónico: christian.rojas.tech@gmail.com
+Correo electrónico: contacto.levelrise@gmail.com
 
 Fecha de última actualización: abril de 2026
 
